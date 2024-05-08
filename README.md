@@ -1,4 +1,7 @@
 # UnityChang-Fps
 
-Unity기반 게임 UnityChang Fps
-Source 코드 저장소
+Unity based Fps UnityChang
+Source 
+
+# License
+The player character Unity-Chan  under the Unity-Chan License 2.0 terms. 
